@@ -19,6 +19,6 @@ java -cp "junit-4.8.1.jar; hamcrest-2.2.jar;." org.junit.runner.JUnitCore packag
 
 
 
-### This code is not neccessary but you have removed this path from your system env variables for the above code to work
+### The below piece of code may not be neccessary but I have removed this path from my system env variables for the above code to work
 
 C:\Program Files (x86)\Common Files\Oracle\Java\javapath
